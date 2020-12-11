@@ -19,4 +19,4 @@ end
 
 30.times do 
     Image.create(img: 'https://alextass.com/wp-content/uploads/2015/05/Hummingbird-colorful-bird-wings-logo-design-symbol-icon-by-Alex-Tass.jpg', content_id: Content.all.sample.id)
-end 
+end
